@@ -1,5 +1,5 @@
 # 💫 About Me:
-Computer Engineering Student @ Unina
+Computer Engineering Student @ Unina<br/>
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/balassone.png)
 
 ## 🌐 Socials:
