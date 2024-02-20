@@ -1,7 +1,4 @@
 # 💫 About Me:
-Computer Engineering Student @ Unina<br/>
-
-# 💫 About Me:
 👨‍🎓MSc Computer Engineering @ Unina<br> Apple Foundation Program<br>🛡️CyberChallenge.IT 2021<br>
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/duel0.png)
 
