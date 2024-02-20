@@ -1,6 +1,7 @@
 # 💫 About Me:
 Computer Engineering Student @ Unina<br/>
-![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/balassone.png)
+![TryHackMe]([https://tryhackme-badges.s3.amazonaws.com/balassone.png](https://tryhackme-badges.s3.amazonaws.com/duel0.png))
+
 
 
 ## 🌐 Socials:
