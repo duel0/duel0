@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓MSc Computer Engineering @ Unina<br> Apple Foundation Program<br>🛡️CyberChallenge.IT 2021 Student<br>🛡️CyberChallenge.IT 2024 Instructor<br>🛡️CyberChallenge.IT 2025 Instructor <br>
+🔬AI Cybersecurity Researcher @ Alias Robotics<br>👨‍🎓MSc Computer Engineering @ Unina<br>CTF Team Captain and Co-Founder @ napwnli<br>🛡️CyberChallenge.IT 2021 Student<br>🛡️CyberChallenge.IT 2024 Instructor<br>🛡️CyberChallenge.IT 2025 Instructor <br> Apple Foundation Program<br>
 ![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/duel0.png)
 
 
